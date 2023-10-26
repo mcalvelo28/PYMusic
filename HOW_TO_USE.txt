@@ -1,0 +1,19 @@
+Welcome to PYMusic, the easy Python Music Player.
+
+To get started, insert your audio files into the MUSIC folder.
+
+Then click on main.exe to launch the application.
+
+Nothing will show up at the screen at first. To play a song, click on the play icon.
+
+You can use the Forward and Backward icons to change between songs inside the folder. 
+
+You can use the Up and Down icons on the right side of the program to change the volume.
+
+Lastly, you can use the pause icon to pause the song.
+
+Click the icon once to pause the song, then once again to unpause.
+
+Removing any files while the application is running will cause the program to crash.
+
+Thank you and enjoy PYMusic.
